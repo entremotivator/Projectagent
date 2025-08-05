@@ -1,2 +1,11 @@
-streamlit>=1.47.0
-pandas>=1.5.0
+streamlit
+pandas
+requests
+plotly
+openpyxl
+gspread
+google-auth
+google-auth-oauthlib
+google-auth-httplib2
+google-api-python-client
+
